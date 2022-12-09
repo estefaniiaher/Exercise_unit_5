@@ -1,0 +1,4 @@
+For commit step 5, in the console, inside Exercise_unit_5, I put >notepad The hare and the turtle.txt , edited it from notepad and saved the notepad file.
+Then in the console, type git add . To commit the changes, git commit -m and then git pull.
+For commit step 6, I copied the .txt file into the folder I created with git, set git status to check that I had files to upload, typed git add . and added git commit -m
+Then I retyped git pull.
